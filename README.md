@@ -22,7 +22,7 @@ A beginner's guide through Go Programming Language.
 - [x] Anonymous
 - [x] Goroutines
 - [x] Closure
-- [x] Closure Synchronization
+- [x] Channel Synchronization
 - [ ] Method
 - [ ] Interface
 - [ ] Error
@@ -44,7 +44,9 @@ A beginner's guide through Go Programming Language.
 - [x] Mutex
 
 ## Program
+- [x] 1.go - Take input from user and add to all the previous inputs until user presee 'X'
 
 ## Gophercises
+- [] Quiz Game
 
 ![Go Mascot](https://images.tutorialedge.net/images/golang.svg)
