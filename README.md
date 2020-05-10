@@ -5,7 +5,7 @@ A beginner's guide through Go Programming Language.
 1. Faster
 2. Garbage Collection
 3. Simpler Objects
-4. In-built Concurrency
+4. Built-In Concurrency
 
 # Topics 
 
