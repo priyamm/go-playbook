@@ -44,7 +44,7 @@ A beginner's guide through Go Programming Language.
 - [x] Mutex
 
 ## Program
-- [x] 1.go - Take input from user and add to all the previous inputs until user press 'X'
+- [x] 1.go - Take input from user and add to all the previous inputs and sort it, exits only when user press 'X'
 
 ## Gophercises
 - [ ] Quiz Game
