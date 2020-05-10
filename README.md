@@ -20,9 +20,12 @@ A beginner's guide through Go Programming Language.
 
 ## Intermediate
 - [x] Anonymous
+- [x] Goroutines
 - [x] Closure
+- [x] Closure Synchronization
 - [ ] Method
 - [ ] Interface
+- [ ] Error
 
 ## Expert
 - [x] Sleep
