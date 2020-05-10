@@ -29,13 +29,22 @@ A beginner's guide through Go Programming Language.
 
 ## Expert
 - [x] Sleep
-- [ ] Goroutine
-- [ ] Channel
-- [ ] WaitGroup
+- [x] Channel
+- [x] WaitGroup
 - [x] JSON Handler
 - [x] Read
 - [ ] Write
 - [x] Select
+- [x] Timer
+- [x] Ticker
 
+## Concurrency
+- [x] WorkerPools
+- [x] Atomic
+- [x] Mutex
+
+## Program
+
+## Gophercises
 
 ![Go Mascot](https://images.tutorialedge.net/images/golang.svg)
