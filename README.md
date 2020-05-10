@@ -11,11 +11,11 @@ A beginner's guide through Go Programming Language.
 
 ## Basic
 - [x] Print
-- [ ] Variables
+- [x] Variables
 - [ ] Control Flow
 - [ ] Arrays
 - [ ] Slice
-- [ ] Map
+- [x] Map
 - [x] Panic
 
 ## Intermediate
@@ -35,6 +35,7 @@ A beginner's guide through Go Programming Language.
 - [x] JSON Handler
 - [x] Read
 - [ ] Write
+- [x] Select
 
 
 ![Go Mascot](https://images.tutorialedge.net/images/golang.svg)
