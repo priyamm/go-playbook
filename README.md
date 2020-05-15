@@ -37,6 +37,8 @@ A beginner's guide through Go Programming Language.
 - [x] Select
 - [x] Timer
 - [x] Ticker
+- [ ] Http Client
+- [ ] Http Server
 
 ## Concurrency
 - [x] WorkerPools
