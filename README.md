@@ -17,6 +17,7 @@ A beginner's guide through Go Programming Language.
 - [ ] Slice
 - [x] Map
 - [x] Panic
+- [ ] Error
 
 ## Intermediate
 - [x] Anonymous
@@ -25,7 +26,6 @@ A beginner's guide through Go Programming Language.
 - [x] Channel Synchronization
 - [ ] Method
 - [ ] Interface
-- [ ] Error
 
 ## Expert
 - [x] Sleep
