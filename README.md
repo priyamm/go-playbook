@@ -1,3 +1,5 @@
+![Go Welcome](https://filebin.net/ay92cjmcig4d788w/code2.gif?width=1140)
+
 # go-playbook
 A beginner's guide through Go Programming Language.
 
