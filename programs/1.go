@@ -6,6 +6,8 @@ import (
 	"strconv"
 )
 
+// Take input from user and add to all the previous inputs and sort it, exits only when user press 'X'
+
 func main() {
 	sli := make([]int, 0, 3)
 	var input string
