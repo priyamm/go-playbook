@@ -1,6 +1,9 @@
 # go-playbook
 A beginner's guide through Go Programming Language.
 
+
+![Go Code](https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif)
+
 # Reason to move to Go
 1. Faster
 2. Garbage Collection
