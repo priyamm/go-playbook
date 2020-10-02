@@ -36,7 +36,7 @@ A beginner's guide through Go Programming Language.
 - [x] WaitGroup
 - [x] JSON Handler
 - [x] Read
-- [ ] Write
+- [x] Write
 - [x] Select
 - [x] Timer
 - [x] Ticker
