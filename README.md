@@ -20,7 +20,10 @@ A beginner's guide through Go Programming Language.
 - [x] Slice
 - [x] Map
 - [x] Panic
-- [X] Error
+- [ ] Defer
+- [x] Error
+- [ ] String Functions
+- [ ] Exit
 
 ## Intermediate
 - [x] Anonymous
@@ -29,6 +32,9 @@ A beginner's guide through Go Programming Language.
 - [x] Channel Synchronization
 - [x] Method
 - [ ] Interface
+- [ ] Testing
+- [ ] Context
+- [ ] Signals
 
 ## Expert
 - [x] Sleep
@@ -47,11 +53,13 @@ A beginner's guide through Go Programming Language.
 - [x] WorkerPools
 - [x] Atomic
 - [x] Mutex
+- [ ] Atomic Counters
 
 ## Program
 - [x] 1.go - Take input from user and add to all the previous inputs and sort it, exits only when user press 'X'
 
 ## Gophercises
+- [ ] Websocket Basics
 - [ ] Quiz Game
 
 
