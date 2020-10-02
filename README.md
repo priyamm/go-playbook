@@ -17,7 +17,7 @@ A beginner's guide through Go Programming Language.
 - [x] Slice
 - [x] Map
 - [x] Panic
-- [ ] Error
+- [X] Error
 
 ## Intermediate
 - [x] Anonymous
