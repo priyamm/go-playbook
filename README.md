@@ -13,8 +13,8 @@ A beginner's guide through Go Programming Language.
 - [x] Print
 - [x] Variables
 - [ ] Control Flow
-- [ ] Arrays
-- [ ] Slice
+- [x] Arrays
+- [x] Slice
 - [x] Map
 - [x] Panic
 - [ ] Error
