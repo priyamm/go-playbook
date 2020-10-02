@@ -27,7 +27,7 @@ A beginner's guide through Go Programming Language.
 - [x] Goroutines
 - [x] Closure
 - [x] Channel Synchronization
-- [ ] Method
+- [x] Method
 - [ ] Interface
 
 ## Expert
