@@ -1,4 +1,4 @@
-![Go Welcome](https://media.giphy.com/media/udV5WyLevYCJH2gj5V/giphy.gif)
+![Go Code](https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif)
 
 # go-playbook
 A beginner's guide through Go Programming Language.
