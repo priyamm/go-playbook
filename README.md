@@ -1,5 +1,7 @@
 # go-playbook
-A beginner's guide through Go Programming Language.
+[![made-with-Go](https://img.shields.io/badge/Made%20with-Go-1f425f.svg)](http://golang.org)
+[![Contributers](https://img.shields.io/github/contributors/priyamm/go-playbook)](https://img.shields.io/github/contributors/priyamm/go-playbook)
+#### A beginner's guide through Go Programming Language.
 
 
 ![Go Code](https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif)
