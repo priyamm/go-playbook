@@ -68,3 +68,4 @@
 ![Go Mascot](https://images.tutorialedge.net/images/golang.svg)
 
 You can start contributing to this repo, view [Contributing guidelines](https://github.com/priyamm/go-playbook/blob/master/CONTRIBUTING.md)
+Also do star the Repo.
